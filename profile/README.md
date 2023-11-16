@@ -10,7 +10,7 @@
   <p align="center">
     Explore cutting-edge AI projects focused on revolutionizing education and enhancing instructional content.<br>
     <br />
-    <a href="https://tcu-instructional-ai.github.io/">Explore Our Projects »</a>
+    <a href="https://ai.tcu.edu/">Explore Our Projects »</a>
   </p>
 </div>
 
