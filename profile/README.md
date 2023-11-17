@@ -1,8 +1,8 @@
 # TCU Instructional AI Organization
 
 <div align="center">
-  <a href="https://github.com/TCU-Instructional-AI">
-    <img src="https://github.com/TCU-Instructional-AI/classifAI/raw/main/frontend/static/images/logo.jpg" alt="Organization Logo" width="128" height="128">
+  <a href="https://github.com/TCU-ClassifAI">
+    <img src="https://github.com/TCU-ClassifAI/classifAI/raw/main/frontend/static/images/logo.jpg" alt="Organization Logo" width="128" height="128">
   </a>
 
 <h2 align="center">Welcome to TCU Instructional AI Organization!</h2>
@@ -18,7 +18,7 @@
 
 ## Table of Contents
 
-- [About TCU Instructional AI Organization](#about-tcu-instructional-ai-organization)
+- [About TCU ClassifAI Organization](#about-tcu-instructional-ai-organization)
 - [Projects](#projects)
 - [Getting Involved](#getting-involved)
 - [Contact](#contact)
@@ -27,7 +27,7 @@
 
 ## About TCU Instructional AI Organization
 
-TCU Instructional AI Organization is dedicated to leveraging artificial intelligence to transform the landscape of education. We aim to create innovative solutions that enhance instructional content, improve engagement, and provide valuable insights into the learning process.
+TCU Instructional AI Organization (TCU ClassifAI) is dedicated to leveraging artificial intelligence to transform the landscape of education. We aim to create innovative solutions that enhance instructional content, improve engagement, and provide valuable insights into the learning process.
 
 Explore our projects, contribute to our initiatives, and be a part of the future of education!
 
@@ -35,9 +35,9 @@ Explore our projects, contribute to our initiatives, and be a part of the future
 
 ## Projects
 
-### 1. [ClassifAI](https://github.com/TCU-Instructional-AI/classifAI)
+### 1. [ClassifAI](https://github.com/TCU-ClassifAI/classifAI)
 
-![Classifai Screenshot](https://github.com/TCU-Instructional-AI/classifAI/raw/main/docs/images/product.png)
+![Classifai Screenshot](https://github.com/TCU-ClassifAI/classifAI/raw/main/docs/images/product.png)
 
 ClassifAI is a web application that enhances educational content by transcribing video and audio into text for user modification and categorizes questions, offering engagement insights and user-friendly access.
 
@@ -51,14 +51,14 @@ ClassifAI is a web application that enhances educational content by transcribing
 
 **Explore ClassifAI:**
 - [Visit the Portal](https://classifai.tcu.edu/)
-- [Documentation](https://tcu-instructional-ai.github.io/classifai-docs)
+- [Documentation](https://tcu-classifai.github.io/classifai-docs)
 
 ### 2. [ClassifAI Engine](https://github.com/TCU-Instructional-AI/classifAI-engine)
 
 The ClassifAI Engine handles the transcription and classification of videos, serving as the backbone for the ClassifAI web application.
 
 **Explore ClassifAI Engine:**
-- [Visit the Repository](https://github.com/TCU-Instructional-AI/classifAI-engine)
+- [Visit the Repository](https://github.com/TCU-ClassifAI/classifAI-engine)
 
 *Stay tuned for more exciting projects from TCU Instructional AI!*
 
@@ -68,7 +68,7 @@ The ClassifAI Engine handles the transcription and classification of videos, ser
 
 We welcome contributions and collaboration! If you are passionate about using AI to enhance education, here's how you can get involved:
 
-1. **Explore our Projects:** Check out our [GitHub Repositories](https://github.com/TCU-Instructional-AI) to discover ongoing projects.
+1. **Explore our Projects:** Check out our [GitHub Repositories](https://github.com/ClassifAI) to discover ongoing projects.
 
 2. **Contribute:** Fork a project, make improvements, and submit a pull request. Contributions are highly appreciated!
 
@@ -86,7 +86,7 @@ We welcome contributions and collaboration! If you are passionate about using AI
 - [TCU AI Website](https://ai.tcu.edu/)
 
 **For specific project inquiries:**
-- [Project Documentation](https://tcu-instructional-ai.github.io/classifai-docs)
+- [Project Documentation](https://tcu-classifai.github.io/classifai-docs)
 
 **Connect with us on GitHub:**
 - [TCU Instructional AI GitHub](https://github.com/TCU-Instructional-AI)
