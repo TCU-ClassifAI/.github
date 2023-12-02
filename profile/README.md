@@ -23,6 +23,8 @@
 - [Getting Involved](#getting-involved)
 - [Contact](#contact)
 
+### [Looking for the ClassifAI Portal?](https://classifai.tcu.edu)
+
 ---
 
 ## About TCU Instructional AI Organization
@@ -51,7 +53,7 @@ ClassifAI is a web application that enhances educational content by transcribing
 
 **Explore ClassifAI:**
 - [Visit the Portal](https://classifai.tcu.edu/)
-- [Documentation](https://tcu-classifai.github.io/classifai-docs)
+- [Documentation](https://tcu-classifai.github.io/classifAI/)
 
 ### 2. [ClassifAI Engine](https://github.com/TCU-Instructional-AI/classifAI-engine)
 
