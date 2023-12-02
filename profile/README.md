@@ -88,10 +88,10 @@ We welcome contributions and collaboration! If you are passionate about using AI
 - [TCU AI Website](https://ai.tcu.edu/)
 
 **For specific project inquiries:**
-- [Project Documentation](https://tcu-classifai.github.io/classifai-docs)
+- [Project Documentation](https://tcu-classifai.github.io/classifAI/)
 
 **Connect with us on GitHub:**
-- [TCU Instructional AI GitHub](https://github.com/TCU-Instructional-AI)
+- [TCU Instructional AI GitHub](https://github.com/TCU-ClassifAI)
 
 *Join us in shaping the future of education through AI!*
 
