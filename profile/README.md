@@ -5,7 +5,7 @@
     <img src="https://github.com/TCU-ClassifAI/classifAI/raw/main/frontend/static/images/logo.jpg" alt="Organization Logo" width="128" height="128">
   </a>
 
-<h2 align="center">Welcome to TCU Instructional AI Organization!</h2>
+<h2 align="center">Welcome to Instructional AI Organization!</h2>
 
   <p align="center">
     Explore cutting-edge AI projects focused on revolutionizing education and enhancing instructional content.<br>
