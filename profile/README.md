@@ -1,4 +1,4 @@
-# TCU Instructional AI Organization
+# Instructional AI Tool
 
 <div align="center">
   <a href="https://github.com/TCU-ClassifAI">
